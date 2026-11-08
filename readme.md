@@ -1,6 +1,7 @@
 # 🛒 Carrinho de Compras da Shopee com Node.js
 
-Simulação de um backend de carrinho de compras inspirada na Shopee, desenvolvida em **Node.js** com arquitetura modular, utilizando **ES Modules** (`import/export`) e programação assíncrona (`async/await`).
+Simulação de um backend de carrinho de compras inspirada na Shopee, desenvolvida em **Node.js** com arquitetura modular, utilizando **ES Modules** (`import/export`) e programação assíncrona (`async/await`). Para a `formação Formação Node.js Fundamentals`.
+Agradecimentos especiais ao instrutor **[Felipe Silva Aguiar](https://github.com/felipeAguiarCode)** por todo o conteúdo ensinado, estrutura fornecida e orientação durante a trilha de aprendizado de Node.js!
 
 ---
 
