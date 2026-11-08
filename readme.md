@@ -20,3 +20,15 @@ Carrinho de Compras da Shopee com Node.js/
 ├── package.json
 ├── package-lock.json
 └── readme.md
+
+```
+---
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Projeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
+</p>
+
+---
